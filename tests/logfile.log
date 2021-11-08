@@ -1,0 +1,390 @@
+2021-11-03 14:10:43,323:INFO :test_e2e :getting all the card titles
+2021-11-03 14:10:43,365:INFO :test_e2e :iphone X
+2021-11-03 14:10:43,379:INFO :test_e2e :Samsung Note 8
+2021-11-03 14:10:43,392:INFO :test_e2e :Nokia Edge
+2021-11-03 14:10:43,406:INFO :test_e2e :Blackberry
+2021-11-03 14:10:43,589:INFO :test_e2e :Entering country name as Rus
+2021-11-03 14:10:49,173:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-03 14:14:33,370:INFO :test_e2e :getting all the card titles
+2021-11-03 14:14:33,408:INFO :test_e2e :iphone X
+2021-11-03 14:14:33,426:INFO :test_e2e :Samsung Note 8
+2021-11-03 14:14:33,448:INFO :test_e2e :Nokia Edge
+2021-11-03 14:14:33,463:INFO :test_e2e :Blackberry
+2021-11-03 14:14:33,686:INFO :test_e2e :Entering country name as Rus
+2021-11-03 14:14:39,522:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-03 14:14:44,533:INFO :test_from_sub :first name is oleg
+2021-11-03 14:14:44,897:INFO :test_from_sub :first name is ilona
+2021-11-03 14:14:44,897:INFO :test_from_sub :first name is ilona
+2021-11-03 14:16:57,233:INFO :test_e2e :getting all the card titles
+2021-11-03 14:16:57,262:INFO :test_e2e :iphone X
+2021-11-03 14:16:57,276:INFO :test_e2e :Samsung Note 8
+2021-11-03 14:16:57,290:INFO :test_e2e :Nokia Edge
+2021-11-03 14:16:57,304:INFO :test_e2e :Blackberry
+2021-11-03 14:16:57,494:INFO :test_e2e :Entering country name as Rus
+2021-11-03 14:17:03,099:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-03 14:17:07,255:INFO :test_from_sub :first name is oleg
+2021-11-03 14:17:07,817:INFO :test_from_sub :first name is ilona
+2021-11-03 14:17:07,817:INFO :test_from_sub :first name is ilona
+2021-11-03 14:29:28,404:INFO :test_e2e :getting all the card titles
+2021-11-03 14:29:28,441:INFO :test_e2e :iphone X
+2021-11-03 14:29:28,460:INFO :test_e2e :Samsung Note 8
+2021-11-03 14:29:28,479:INFO :test_e2e :Nokia Edge
+2021-11-03 14:29:28,494:INFO :test_e2e :Blackberry
+2021-11-03 14:29:28,723:INFO :test_e2e :Entering country name as Rus
+2021-11-03 14:29:34,042:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-03 14:29:39,693:INFO :test_from_sub :first name is oleg
+2021-11-03 14:29:41,079:INFO :test_from_sub :first name is ilona
+2021-11-03 14:29:41,079:INFO :test_from_sub :first name is ilona
+2021-11-03 16:57:16,570:INFO :test_e2e :getting all the card titles
+2021-11-03 16:57:16,596:INFO :test_e2e :iphone X
+2021-11-03 16:57:16,611:INFO :test_e2e :Samsung Note 8
+2021-11-03 16:57:16,625:INFO :test_e2e :Nokia Edge
+2021-11-03 16:57:16,639:INFO :test_e2e :Blackberry
+2021-11-03 16:57:16,824:INFO :test_e2e :Entering country name as Rus
+2021-11-03 16:57:22,408:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-03 16:57:26,845:INFO :test_from_sub :first name is oleg
+2021-11-03 16:57:27,971:INFO :test_from_sub :first name is ilona
+2021-11-03 16:57:27,971:INFO :test_from_sub :first name is ilona
+2021-11-04 01:38:16,984:INFO :test_e2e :getting all the card titles
+2021-11-04 01:38:17,012:INFO :test_e2e :iphone X
+2021-11-04 01:38:17,028:INFO :test_e2e :Samsung Note 8
+2021-11-04 01:38:17,041:INFO :test_e2e :Nokia Edge
+2021-11-04 01:38:17,058:INFO :test_e2e :Blackberry
+2021-11-04 01:38:17,244:INFO :test_e2e :Entering country name as Rus
+2021-11-04 01:38:22,822:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 01:38:26,400:INFO :test_from_sub :first name is oleg
+2021-11-04 01:38:27,006:INFO :test_from_sub :first name is ilona
+2021-11-04 01:38:27,006:INFO :test_from_sub :first name is ilona
+2021-11-04 01:40:18,401:INFO :test_e2e :getting all the card titles
+2021-11-04 01:40:18,431:INFO :test_e2e :iphone X
+2021-11-04 01:40:18,444:INFO :test_e2e :Samsung Note 8
+2021-11-04 01:40:18,460:INFO :test_e2e :Nokia Edge
+2021-11-04 01:40:18,473:INFO :test_e2e :Blackberry
+2021-11-04 01:40:18,663:INFO :test_e2e :Entering country name as Rus
+2021-11-04 01:40:24,232:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 01:40:27,931:INFO :test_from_sub :first name is oleg
+2021-11-04 01:40:28,543:INFO :test_from_sub :first name is ilona
+2021-11-04 01:40:28,543:INFO :test_from_sub :first name is ilona
+2021-11-04 15:13:33,262:INFO :test_e2e :getting all the card titles
+2021-11-04 15:13:33,296:INFO :test_e2e :iphone X
+2021-11-04 15:13:33,314:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:13:33,329:INFO :test_e2e :Nokia Edge
+2021-11-04 15:13:33,345:INFO :test_e2e :Blackberry
+2021-11-04 15:13:33,561:INFO :test_e2e :Entering country name as Rus
+2021-11-04 15:13:39,168:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 15:13:42,679:INFO :test_from_sub :first name is oleg
+2021-11-04 15:13:43,315:INFO :test_from_sub :first name is ilona
+2021-11-04 15:13:43,315:INFO :test_from_sub :first name is ilona
+2021-11-04 15:22:40,092:INFO :test_e2e :getting all the card titles
+2021-11-04 15:22:40,141:INFO :test_e2e :iphone X
+2021-11-04 15:22:40,157:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:22:40,172:INFO :test_e2e :Nokia Edge
+2021-11-04 15:22:40,187:INFO :test_e2e :Blackberry
+2021-11-04 15:22:40,371:INFO :test_e2e :Entering country name as Rus
+2021-11-04 15:22:45,877:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 15:22:49,364:INFO :test_from_sub :first name is oleg
+2021-11-04 15:22:49,699:INFO :test_from_sub :first name is ilona
+2021-11-04 15:22:49,699:INFO :test_from_sub :first name is ilona
+2021-11-04 15:29:34,446:INFO :test_e2e :getting all the card titles
+2021-11-04 15:29:34,525:INFO :test_e2e :iphone X
+2021-11-04 15:29:34,544:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:29:34,565:INFO :test_e2e :Nokia Edge
+2021-11-04 15:29:34,580:INFO :test_e2e :Blackberry
+2021-11-04 15:29:34,770:INFO :test_e2e :Entering country name as Rus
+2021-11-04 15:29:40,324:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 15:29:43,807:INFO :test_from_sub :first name is oleg
+2021-11-04 15:29:44,150:INFO :test_from_sub :first name is ilona
+2021-11-04 15:29:44,150:INFO :test_from_sub :first name is ilona
+2021-11-04 15:30:16,228:INFO :test_e2e :getting all the card titles
+2021-11-04 15:30:16,314:INFO :test_e2e :iphone X
+2021-11-04 15:30:16,334:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:30:16,353:INFO :test_e2e :Nokia Edge
+2021-11-04 15:30:16,370:INFO :test_e2e :Blackberry
+2021-11-04 15:30:16,547:INFO :test_e2e :Entering country name as Rus
+2021-11-04 15:30:22,077:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 15:30:25,388:INFO :test_from_sub :first name is oleg
+2021-11-04 15:30:26,047:INFO :test_from_sub :first name is ilona
+2021-11-04 15:30:26,047:INFO :test_from_sub :first name is ilona
+2021-11-04 15:36:19,293:INFO :test_e2e :getting all the card titles
+2021-11-04 15:36:19,343:INFO :test_e2e :iphone X
+2021-11-04 15:36:19,356:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:36:19,371:INFO :test_e2e :Nokia Edge
+2021-11-04 15:36:19,387:INFO :test_e2e :Blackberry
+2021-11-04 15:36:22,652:INFO :test_from_sub :first name is oleg
+2021-11-04 15:36:23,203:INFO :test_from_sub :first name is ilona
+2021-11-04 15:36:23,203:INFO :test_from_sub :first name is ilona
+2021-11-04 15:36:58,426:INFO :test_e2e :getting all the card titles
+2021-11-04 15:36:58,472:INFO :test_e2e :iphone X
+2021-11-04 15:36:58,492:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:36:58,508:INFO :test_e2e :Nokia Edge
+2021-11-04 15:36:58,526:INFO :test_e2e :Blackberry
+2021-11-04 15:37:01,606:INFO :test_from_sub :first name is oleg
+2021-11-04 15:37:01,889:INFO :test_from_sub :first name is ilona
+2021-11-04 15:37:01,889:INFO :test_from_sub :first name is ilona
+2021-11-04 15:42:54,993:INFO :test_e2e :getting all the card titles
+2021-11-04 15:42:55,036:INFO :test_e2e :iphone X
+2021-11-04 15:42:55,050:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:42:55,065:INFO :test_e2e :Nokia Edge
+2021-11-04 15:42:55,084:INFO :test_e2e :Blackberry
+2021-11-04 15:42:58,258:INFO :test_from_sub :first name is oleg
+2021-11-04 15:42:58,787:INFO :test_from_sub :first name is ilona
+2021-11-04 15:42:58,787:INFO :test_from_sub :first name is ilona
+2021-11-04 15:43:23,467:INFO :test_e2e :getting all the card titles
+2021-11-04 15:43:23,494:INFO :test_e2e :iphone X
+2021-11-04 15:43:23,512:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:43:23,526:INFO :test_e2e :Nokia Edge
+2021-11-04 15:43:23,543:INFO :test_e2e :Blackberry
+2021-11-04 15:43:23,718:INFO :test_e2e :Entering country name as Rus
+2021-11-04 15:43:29,227:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-04 15:43:32,731:INFO :test_from_sub :first name is oleg
+2021-11-04 15:43:33,053:INFO :test_from_sub :first name is ilona
+2021-11-04 15:43:33,053:INFO :test_from_sub :first name is ilona
+2021-11-04 15:47:39,732:INFO :test_e2e :getting all the card titles
+2021-11-04 15:47:39,792:INFO :test_e2e :iphone X
+2021-11-04 15:47:39,815:INFO :test_e2e :Samsung Note 8
+2021-11-04 15:47:39,833:INFO :test_e2e :Nokia Edge
+2021-11-04 15:47:39,855:INFO :test_e2e :Blackberry
+2021-11-04 15:47:43,236:INFO :test_from_sub :first name is oleg
+2021-11-04 15:47:43,847:INFO :test_from_sub :first name is ilona
+2021-11-04 15:47:43,847:INFO :test_from_sub :first name is ilona
+2021-11-07 11:34:19,429:INFO :test_e2e :getting all the card titles
+2021-11-07 11:34:19,488:INFO :test_e2e :iphone X
+2021-11-07 11:34:19,537:INFO :test_e2e :Samsung Note 8
+2021-11-07 11:34:19,560:INFO :test_e2e :Nokia Edge
+2021-11-07 11:34:19,588:INFO :test_e2e :Blackberry
+2021-11-07 11:34:22,823:INFO :test_from_sub :first name is oleg
+2021-11-07 11:34:23,453:INFO :test_from_sub :first name is ilona
+2021-11-07 11:34:23,453:INFO :test_from_sub :first name is ilona
+2021-11-07 11:38:01,424:INFO :test_e2e :getting all the card titles
+2021-11-07 11:38:01,502:INFO :test_e2e :iphone X
+2021-11-07 11:38:01,528:INFO :test_e2e :Samsung Note 8
+2021-11-07 11:38:01,549:INFO :test_e2e :Nokia Edge
+2021-11-07 11:38:01,572:INFO :test_e2e :Blackberry
+2021-11-07 11:38:04,959:INFO :test_from_sub :first name is oleg
+2021-11-07 11:38:05,726:INFO :test_from_sub :first name is ilona
+2021-11-07 11:38:05,726:INFO :test_from_sub :first name is ilona
+2021-11-07 11:38:32,615:INFO :test_e2e :getting all the card titles
+2021-11-07 11:38:32,702:INFO :test_e2e :iphone X
+2021-11-07 11:38:32,722:INFO :test_e2e :Samsung Note 8
+2021-11-07 11:38:32,743:INFO :test_e2e :Nokia Edge
+2021-11-07 11:38:32,761:INFO :test_e2e :Blackberry
+2021-11-07 11:38:36,346:INFO :test_from_sub :first name is oleg
+2021-11-07 11:38:36,926:INFO :test_from_sub :first name is ilona
+2021-11-07 11:38:36,926:INFO :test_from_sub :first name is ilona
+2021-11-07 11:39:16,966:INFO :test_e2e :getting all the card titles
+2021-11-07 11:39:17,056:INFO :test_e2e :iphone X
+2021-11-07 11:39:17,076:INFO :test_e2e :Samsung Note 8
+2021-11-07 11:39:17,093:INFO :test_e2e :Nokia Edge
+2021-11-07 11:39:17,113:INFO :test_e2e :Blackberry
+2021-11-07 11:39:20,728:INFO :test_from_sub :first name is oleg
+2021-11-07 11:39:21,356:INFO :test_from_sub :first name is ilona
+2021-11-07 11:39:21,356:INFO :test_from_sub :first name is ilona
+2021-11-07 11:40:04,103:INFO :test_e2e :getting all the card titles
+2021-11-07 11:40:04,138:INFO :test_e2e :iphone X
+2021-11-07 11:40:04,153:INFO :test_e2e :Samsung Note 8
+2021-11-07 11:40:04,166:INFO :test_e2e :Nokia Edge
+2021-11-07 11:40:04,180:INFO :test_e2e :Blackberry
+2021-11-07 11:40:04,356:INFO :test_e2e :Entering country name as Rus
+2021-11-07 11:40:09,947:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 11:40:13,398:INFO :test_from_sub :first name is oleg
+2021-11-07 11:40:13,706:INFO :test_from_sub :first name is ilona
+2021-11-07 11:40:13,706:INFO :test_from_sub :first name is ilona
+2021-11-07 11:43:33,214:INFO :test_e2e :getting all the card titles
+2021-11-07 11:43:33,299:INFO :test_e2e :iphone X
+2021-11-07 11:43:33,322:INFO :test_e2e :Samsung Note 8
+2021-11-07 11:43:33,337:INFO :test_e2e :Nokia Edge
+2021-11-07 11:43:33,354:INFO :test_e2e :Blackberry
+2021-11-07 11:43:36,652:INFO :test_from_sub :first name is oleg
+2021-11-07 11:43:37,230:INFO :test_from_sub :first name is ilona
+2021-11-07 11:43:37,230:INFO :test_from_sub :first name is ilona
+2021-11-07 12:13:16,935:INFO :test_e2e :getting all the card titles
+2021-11-07 12:13:16,983:INFO :test_e2e :iphone X
+2021-11-07 12:13:16,996:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:13:17,008:INFO :test_e2e :Nokia Edge
+2021-11-07 12:13:17,022:INFO :test_e2e :Blackberry
+2021-11-07 12:13:20,231:INFO :test_from_sub :first name is oleg
+2021-11-07 12:13:20,754:INFO :test_from_sub :first name is ilona
+2021-11-07 12:13:20,754:INFO :test_from_sub :first name is ilona
+2021-11-07 12:13:59,180:INFO :test_e2e :getting all the card titles
+2021-11-07 12:13:59,211:INFO :test_e2e :iphone X
+2021-11-07 12:13:59,224:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:13:59,238:INFO :test_e2e :Nokia Edge
+2021-11-07 12:13:59,252:INFO :test_e2e :Blackberry
+2021-11-07 12:14:02,432:INFO :test_from_sub :first name is oleg
+2021-11-07 12:14:02,953:INFO :test_from_sub :first name is ilona
+2021-11-07 12:14:02,953:INFO :test_from_sub :first name is ilona
+2021-11-07 12:14:21,272:INFO :test_e2e :getting all the card titles
+2021-11-07 12:14:21,320:INFO :test_e2e :iphone X
+2021-11-07 12:14:21,338:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:14:21,357:INFO :test_e2e :Nokia Edge
+2021-11-07 12:14:21,375:INFO :test_e2e :Blackberry
+2021-11-07 12:14:24,708:INFO :test_from_sub :first name is oleg
+2021-11-07 12:14:25,317:INFO :test_from_sub :first name is ilona
+2021-11-07 12:14:25,317:INFO :test_from_sub :first name is ilona
+2021-11-07 12:14:37,889:INFO :test_e2e :getting all the card titles
+2021-11-07 12:14:37,923:INFO :test_e2e :iphone X
+2021-11-07 12:14:37,937:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:14:37,950:INFO :test_e2e :Nokia Edge
+2021-11-07 12:14:37,965:INFO :test_e2e :Blackberry
+2021-11-07 12:14:38,149:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:14:43,656:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:14:47,063:INFO :test_from_sub :first name is oleg
+2021-11-07 12:14:47,361:INFO :test_from_sub :first name is ilona
+2021-11-07 12:14:47,361:INFO :test_from_sub :first name is ilona
+2021-11-07 12:27:21,204:INFO :test_e2e :getting all the card titles
+2021-11-07 12:27:21,312:INFO :test_e2e :iphone X
+2021-11-07 12:27:21,337:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:27:21,362:INFO :test_e2e :Nokia Edge
+2021-11-07 12:27:21,379:INFO :test_e2e :Blackberry
+2021-11-07 12:27:21,563:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:27:27,123:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:27:30,508:INFO :test_from_sub :first name is oleg
+2021-11-07 12:27:30,827:INFO :test_from_sub :first name is ilona
+2021-11-07 12:27:30,827:INFO :test_from_sub :first name is ilona
+2021-11-07 12:28:11,558:INFO :test_e2e :getting all the card titles
+2021-11-07 12:28:11,598:INFO :test_e2e :iphone X
+2021-11-07 12:28:11,616:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:28:11,629:INFO :test_e2e :Nokia Edge
+2021-11-07 12:28:11,643:INFO :test_e2e :Blackberry
+2021-11-07 12:28:11,837:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:28:17,420:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:28:20,749:INFO :test_from_sub :first name is oleg
+2021-11-07 12:28:21,055:INFO :test_from_sub :first name is ilona
+2021-11-07 12:28:21,055:INFO :test_from_sub :first name is ilona
+2021-11-07 12:32:53,360:INFO :test_e2e :getting all the card titles
+2021-11-07 12:32:53,408:INFO :test_e2e :iphone X
+2021-11-07 12:32:53,423:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:32:53,437:INFO :test_e2e :Nokia Edge
+2021-11-07 12:32:53,452:INFO :test_e2e :Blackberry
+2021-11-07 12:32:54,956:INFO :test_from_sub :first name is oleg
+2021-11-07 12:32:55,829:INFO :test_from_sub :first name is ilona
+2021-11-07 12:32:55,829:INFO :test_from_sub :first name is ilona
+2021-11-07 12:33:10,587:INFO :test_e2e :getting all the card titles
+2021-11-07 12:33:10,614:INFO :test_e2e :iphone X
+2021-11-07 12:33:10,630:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:33:10,645:INFO :test_e2e :Nokia Edge
+2021-11-07 12:33:10,661:INFO :test_e2e :Blackberry
+2021-11-07 12:33:12,225:INFO :test_from_sub :first name is oleg
+2021-11-07 12:33:12,512:INFO :test_from_sub :first name is ilona
+2021-11-07 12:33:12,512:INFO :test_from_sub :first name is ilona
+2021-11-07 12:34:10,058:INFO :test_e2e :getting all the card titles
+2021-11-07 12:34:10,100:INFO :test_e2e :iphone X
+2021-11-07 12:34:10,119:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:34:10,136:INFO :test_e2e :Nokia Edge
+2021-11-07 12:34:10,149:INFO :test_e2e :Blackberry
+2021-11-07 12:34:10,319:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:34:15,839:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:34:17,689:INFO :test_from_sub :first name is oleg
+2021-11-07 12:34:18,267:INFO :test_from_sub :first name is ilona
+2021-11-07 12:34:18,267:INFO :test_from_sub :first name is ilona
+2021-11-07 12:44:18,604:INFO :test_e2e :getting all the card titles
+2021-11-07 12:44:18,629:INFO :test_e2e :iphone X
+2021-11-07 12:44:18,643:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:44:18,658:INFO :test_e2e :Nokia Edge
+2021-11-07 12:44:18,674:INFO :test_e2e :Blackberry
+2021-11-07 12:44:20,301:INFO :test_from_sub :first name is oleg
+2021-11-07 12:44:21,558:INFO :test_from_sub :first name is ilona
+2021-11-07 12:44:21,558:INFO :test_from_sub :first name is ilona
+2021-11-07 12:46:38,016:INFO :test_e2e :getting all the card titles
+2021-11-07 12:46:38,053:INFO :test_e2e :iphone X
+2021-11-07 12:46:38,066:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:46:38,078:INFO :test_e2e :Nokia Edge
+2021-11-07 12:46:38,091:INFO :test_e2e :Blackberry
+2021-11-07 12:46:39,701:INFO :test_from_sub :first name is oleg
+2021-11-07 12:46:40,534:INFO :test_from_sub :first name is ilona
+2021-11-07 12:46:40,534:INFO :test_from_sub :first name is ilona
+2021-11-07 12:46:58,953:INFO :test_e2e :getting all the card titles
+2021-11-07 12:46:58,985:INFO :test_e2e :iphone X
+2021-11-07 12:46:58,999:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:46:59,013:INFO :test_e2e :Nokia Edge
+2021-11-07 12:46:59,027:INFO :test_e2e :Blackberry
+2021-11-07 12:46:59,204:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:47:04,772:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:47:06,651:INFO :test_from_sub :first name is oleg
+2021-11-07 12:47:07,198:INFO :test_from_sub :first name is ilona
+2021-11-07 12:47:07,198:INFO :test_from_sub :first name is ilona
+2021-11-07 12:47:25,192:INFO :test_e2e :getting all the card titles
+2021-11-07 12:47:25,222:INFO :test_e2e :iphone X
+2021-11-07 12:47:25,236:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:47:25,249:INFO :test_e2e :Nokia Edge
+2021-11-07 12:47:25,263:INFO :test_e2e :Blackberry
+2021-11-07 12:47:25,444:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:47:31,025:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:47:32,919:INFO :test_from_sub :first name is oleg
+2021-11-07 12:47:33,186:INFO :test_from_sub :first name is ilona
+2021-11-07 12:47:33,186:INFO :test_from_sub :first name is ilona
+2021-11-07 12:48:05,691:INFO :test_e2e :getting all the card titles
+2021-11-07 12:48:05,723:INFO :test_e2e :iphone X
+2021-11-07 12:48:05,735:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:48:05,747:INFO :test_e2e :Nokia Edge
+2021-11-07 12:48:05,759:INFO :test_e2e :Blackberry
+2021-11-07 12:48:07,371:INFO :test_from_sub :first name is oleg
+2021-11-07 12:48:08,265:INFO :test_from_sub :first name is ilona
+2021-11-07 12:48:08,265:INFO :test_from_sub :first name is ilona
+2021-11-07 12:48:39,730:INFO :test_e2e :getting all the card titles
+2021-11-07 12:48:39,769:INFO :test_e2e :iphone X
+2021-11-07 12:48:39,797:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:48:39,819:INFO :test_e2e :Nokia Edge
+2021-11-07 12:48:39,849:INFO :test_e2e :Blackberry
+2021-11-07 12:48:41,646:INFO :test_from_sub :first name is oleg
+2021-11-07 12:48:42,490:INFO :test_from_sub :first name is ilona
+2021-11-07 12:48:42,490:INFO :test_from_sub :first name is ilona
+2021-11-07 12:52:51,927:INFO :test_from_sub :first name is oleg
+2021-11-07 12:52:52,206:INFO :test_from_sub :first name is ilona
+2021-11-07 12:52:52,206:INFO :test_from_sub :first name is ilona
+2021-11-07 12:53:27,491:INFO :test_e2e :getting all the card titles
+2021-11-07 12:53:27,523:INFO :test_e2e :iphone X
+2021-11-07 12:53:27,538:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:53:27,554:INFO :test_e2e :Nokia Edge
+2021-11-07 12:53:27,569:INFO :test_e2e :Blackberry
+2021-11-07 12:54:02,168:INFO :test_e2e :getting all the card titles
+2021-11-07 12:54:02,205:INFO :test_e2e :iphone X
+2021-11-07 12:54:02,220:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:54:02,235:INFO :test_e2e :Nokia Edge
+2021-11-07 12:54:02,250:INFO :test_e2e :Blackberry
+2021-11-07 12:56:25,292:INFO :test_e2e :getting all the card titles
+2021-11-07 12:56:25,321:INFO :test_e2e :iphone X
+2021-11-07 12:56:25,336:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:56:25,352:INFO :test_e2e :Nokia Edge
+2021-11-07 12:56:25,368:INFO :test_e2e :Blackberry
+2021-11-07 12:58:08,578:INFO :test_e2e :getting all the card titles
+2021-11-07 12:58:08,640:INFO :test_e2e :iphone X
+2021-11-07 12:58:08,661:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:58:08,677:INFO :test_e2e :Nokia Edge
+2021-11-07 12:58:08,693:INFO :test_e2e :Blackberry
+2021-11-07 12:58:36,787:INFO :test_e2e :getting all the card titles
+2021-11-07 12:58:36,827:INFO :test_e2e :iphone X
+2021-11-07 12:58:36,842:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:58:36,857:INFO :test_e2e :Nokia Edge
+2021-11-07 12:58:36,872:INFO :test_e2e :Blackberry
+2021-11-07 12:58:37,050:INFO :test_e2e :Entering country name as Rus
+2021-11-07 12:58:42,668:INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-07 12:59:26,610:INFO :test_e2e :getting all the card titles
+2021-11-07 12:59:26,645:INFO :test_e2e :iphone X
+2021-11-07 12:59:26,659:INFO :test_e2e :Samsung Note 8
+2021-11-07 12:59:26,673:INFO :test_e2e :Nokia Edge
+2021-11-07 12:59:26,686:INFO :test_e2e :Blackberry
+2021-11-07 14:16:52,623:INFO :test_from_sub :first name is ilona
+2021-11-07 14:20:46,553:INFO :test_from_sub :first name is ilona
+2021-11-07 14:21:43,785:INFO :test_from_sub :first name is ilona
+2021-11-07 14:22:15,025:INFO :test_from_sub :first name is ilona
